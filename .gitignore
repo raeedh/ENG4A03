@@ -1,0 +1,9 @@
+# Office/Word autosave files
+~$*.docx
+
+# Latex aux files
+*.synctex.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
